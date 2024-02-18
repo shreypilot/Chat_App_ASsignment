@@ -54,26 +54,25 @@ Start the Client
   npm start
 ```
 
-  
 # Features
 
 ### Authenticaton
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/login.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/login.PNG)
 ![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/real-time.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/search.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/signup.PNG)
 ### Create Group Chats
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/shreypilot/Chat_App_ASsignment/blob/master/screenshots/profile.PNG)
+![](https://github.com/shreypilot/Chat_App_ASsignment/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@shrey-pilot](https://github.com/shreypilot)
